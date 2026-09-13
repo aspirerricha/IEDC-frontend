@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-pixel: "Pixelify Sans", sans-serif;
+  --font-super: "SuperCrown", sans-serif;
+  --font-pasta: "PastaFont", sans-serif;
+  --font-blode: "BlodeStarkly", sans-serif;
+}
+
+@font-face {
+  font-family: 'SuperCrown';
+  src: url('./fonts/SuperCrown-6Rwmv.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PastaFont';
+  src: url('./fonts/PastapersonaluseBold-vmoLA.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BlodeStarkly';
+  src: url('./fonts/BlodeStarklyRegular-2vJ4W.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
