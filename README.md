@@ -38,6 +38,14 @@ src/
   pages/
     Home.jsx         - everything else lives here
 ```
+## This is how the application looks like
+
+<img width="916" height="448" alt="image" src="https://github.com/user-attachments/assets/509feec2-0a11-4315-8afc-06835b051605" />
+<img width="911" height="448" alt="image" src="https://github.com/user-attachments/assets/a734c206-8e11-4cdd-bed0-143ef3aca788" />
+<img width="911" height="445" alt="image" src="https://github.com/user-attachments/assets/59b6a335-f861-4f41-be42-3ecac94c1ea3" />
+
+
+
 
 
 built for IEDC club demo.
